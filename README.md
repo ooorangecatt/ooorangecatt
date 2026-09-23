@@ -1,4 +1,4 @@
-# Hi, I'm ooorangecatt
+# Hello
 
 **University of Minnesota Twin Cities**<br>
 Major in Statistics and Econometrics · Minor in Computer Science
